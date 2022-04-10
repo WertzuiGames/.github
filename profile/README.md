@@ -1,0 +1,2 @@
+![WertzuiGames banner](https://raw.githubusercontent.com/WertzuiGames/.github/main/profile/banner.jpg)
+WertzuiGames is an innovative MCBE server network offering a wide range of features, a homemade multi-language system, and several interesting gamemodes.
